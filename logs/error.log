@@ -1,0 +1,60 @@
+2017/04/05 22:07:06 [emerg] 416#5492: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/04/05 22:07:10 [crit] 6032#5476: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:08:41 [crit] 6032#5476: *4 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:09:27 [crit] 4572#2348: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:09:28 [crit] 4572#2348: *2 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:09:33 [crit] 4572#2348: *3 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:09:37 [crit] 4572#2348: *4 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:09:38 [crit] 4572#2348: *5 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:10:56 [crit] 5264#4092: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:10:57 [crit] 5264#4092: *2 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:10:58 [crit] 5264#4092: *3 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:11:03 [crit] 5264#4092: *4 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:13:58 [crit] 5264#4092: *6 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx\docroot" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:16:04 [emerg] 5324#6100: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/04/05 22:20:17 [emerg] 3940#5384: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2017/04/05 22:26:11 [crit] 5272#3544: *1 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/05 22:26:12 [crit] 5272#3544: *2 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/05 22:26:23 [crit] 5272#3544: *8 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:26:23 [crit] 5272#3544: *9 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/05 22:27:00 [error] 5352#5056: *1 CreateFile() "C:\Users\Dell\Desktop\nginx-1.11.13/docroot\angularService/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/05 22:29:35 [error] 5880#724: *1 "C:\Users\Dell\Desktop\nginx-1.11.13/Downloads\edwisor
+ginx/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:31:40 [error] 5880#724: *7 "C:\Users\Dell\Desktop\nginx-1.11.13/Downloads\edwisor
+ginx/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:31:51 [error] 5880#724: *7 "C:\Users\Dell\Desktop\nginx-1.11.13/Downloads\edwisor
+ginx/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:41:32 [crit] 4896#4952: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/05 22:43:50 [crit] 4276#6140: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/06 08:40:27 [crit] 5284#5012: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/06 08:40:27 [crit] 5284#5012: *2 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/06 08:40:50 [crit] 5284#5012: *5 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/06 08:41:27 [crit] 4868#4640: *1 GetFileAttributesEx() "C:\Users\Dell\Downloads\edwisor
+ginx" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2017/04/06 08:41:27 [crit] 4868#4640: *2 CreateFile() "C:\Users\Dell\Downloads\edwisor
+ginx/favicon.ico" failed (123: The filename, directory name, or volume label syntax is incorrect), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/06 08:42:40 [error] 5160#1876: *1 CreateFile() "C:\Users\Dell\Desktop\docroot/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/06 08:54:47 [error] 2360#5552: *6 CreateFile() "C:\Users\Dell\Desktop\docroot/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "salmanahmedme.com", referrer: "http://salmanahmedme.com/"
+2017/04/08 12:29:51 [error] 2368#5968: *1 CreateFile() "C:\Users\Dell\Desktop\port/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2017/04/08 12:30:02 [error] 2368#5968: *5 CreateFile() "C:\Users\Dell\Desktop\port/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: salmanahmedme.com, request: "GET /favicon.ico HTTP/1.1", host: "salmanahmedme.com", referrer: "http://salmanahmedme.com/"
